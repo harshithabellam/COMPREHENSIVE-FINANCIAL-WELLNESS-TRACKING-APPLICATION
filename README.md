@@ -1,5 +1,5 @@
 
-# Expense Management System using MERN Stack
+# COMPREHENSIVE FINANCIAL WELLNESS TRACKING APPLICATION using MERN Stack
 
 
 ## Project Description:
